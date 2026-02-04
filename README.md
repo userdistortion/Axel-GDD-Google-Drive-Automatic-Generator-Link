@@ -29,8 +29,27 @@
 
 ### v5
 
+- [axel_gdd_google_drive_automatic_generator.bat](https://drive.google.com/uc?export=download&id=1I9EEcZkkJklxnY72SkL-x0PCBqKUo_RT)
+- Descripción:
+  - Se avanza con la detección de Documentos de Google (Google Docs) y Hojas de cálculo (Google Sheets)
+
 ### v6
+
+- [axel_gdd_google_drive_automatic_generator.bat](https://drive.google.com/uc?export=download&id=1ZrSQXyTC7XsVbOFNhABoK5Sp6GnmfYSU)
+- Descripción:
+  - Se intenta corregir la detección de documentos de google y hojas de cálculo
+  - Se agrega nombre Axel GGD Google Drive Automatic Generator
 
 ### v7
 
+- [axel_gdd_google_drive_automatic_generator.bat](https://drive.google.com/uc?export=download&id=1JkEExw5-R9Q4A4rc68v9S5DFYbKBclZ3)
+- Descripción:
+  - Se copia la v3 y se agrega loop infinito
+
 ### v8
+
+- [axel_gdd_google_drive_automatic_generator.bat](https://drive.google.com/file/d/1HoZu_BHlpbDo0oTS6XjbVLlH4O0udXgA/view?usp=drive_link)
+- Descripción:
+  - Se mejora el apartado gráfico
+  - Se limita el tamaño de la ventana CMD
+  - Se divide la presentación en ventana limpia
