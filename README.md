@@ -1,5 +1,10 @@
 # Axel GDD Google Drive Automatic Generator Link
 
+## Enlaces
+
+- [Descarga](https://github.com/userdistortion/Axel-GDD-Google-Drive-Automatic-Generator-Link/archive/refs/heads/main.zip)
+- [Github](https://github.com/userdistortion/Axel-GDD-Google-Drive-Automatic-Generator-Link)
+
 ## Descripción
 
 Esta herramienta es un script en formato .bat cuyo objetivo es generar enlaces de descarga directa para archivos alojados en Google Drive a partir de enlaces de uso compartido. Está pensada exclusivamente para archivos reales almacenados en Drive (como PDF, ZIP, imágenes, videos u otros archivos subidos), y no es compatible con documentos creados mediante Google Workspace (Google Docs, Google Sheets, Google Slides, Google Forms, etc.), ya que estos no existen como archivos descargables directos.
