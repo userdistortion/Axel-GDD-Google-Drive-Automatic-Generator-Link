@@ -54,3 +54,5 @@
   - Se limita el tamaño de la ventana CMD
   - Se divide la presentación en ventana limpia
   - Se prepara para la publicación
+
+ [Documentación de desarrollo de Axel GDD Google Drive Automatic Generator Link](https://drive.google.com/drive/folders/1WuGIGMFUnTw9rUnZypvldA4lCnyIcJa4?usp=drive_link)
